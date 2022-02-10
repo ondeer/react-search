@@ -1,0 +1,40 @@
+.search-div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+  }
+
+  .search-div input:hover{
+    background-color: #ccc;
+    border-color: black;
+  }
+
+  .errorvalid {
+    border-color:  #b40e0e !important;
+    background-color: #fddddd;
+  }
+
+  .errortext{
+    font-weight: bold;
+    color: #b40e0e;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    padding: 15px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 0.5rem;
+    font-weight: bold;
+  }
+
+  .input-div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center
+  }

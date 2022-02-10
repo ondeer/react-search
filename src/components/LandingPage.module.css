@@ -1,0 +1,21 @@
+
+.parent-div{
+    width: 60%;
+    margin: auto;
+    margin-top: 7%;
+}
+  .icon-div{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+  }
+
+  .card-div {
+    background: white;
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+    width: 86%;
+  }
+
+  
+

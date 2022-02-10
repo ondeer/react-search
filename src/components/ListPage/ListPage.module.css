@@ -1,0 +1,10 @@
+.parent-div{
+    width: 60%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.header-div{
+    display: flex;
+    align-items: center;
+  }

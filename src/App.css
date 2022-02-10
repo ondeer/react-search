@@ -1,0 +1,18 @@
+
+body{
+  font-family: sans-serif,Georgia, serif;
+}
+
+button {
+  background-color: #204080;
+  color: white;
+  padding: 10px 20px;
+  margin: 1rem auto;
+  border: none;
+  cursor: pointer;
+  margin-left: 5%;
+  border-radius: 0.5rem;
+}
+button:hover{
+  background-color: #4F75C2;
+}
